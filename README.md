@@ -1,7 +1,6 @@
 <div align="center">
 
 # CYP3A4 Inhibition Predictor
-
 **CYP3A4 효소 저해율 예측을 위한 LightGBM + GNN Stacking Ensemble**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -10,7 +9,7 @@
 ![RDKit](https://img.shields.io/badge/RDKit-2022.09-00599C?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**🏆 최종 2위 · 한국화학연구원장상**
+**🏆 최종 2위 · 한국화학연구원장상 | 2025 AI 신약개발 경진대회**
 
 </div>
 
